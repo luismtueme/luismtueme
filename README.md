@@ -22,6 +22,3 @@ Live reports:
 - [Allure report](https://luismtueme.github.io/playwright-typescript-framework/allure-report/) for the TypeScript Playwright framework
 - [Cucumber report](https://luismtueme.github.io/selenium-java-cucumber-framework/) for the Selenium Java framework
 
-## ReportBridge
-
-[report-bridge](https://github.com/luismtueme/report-bridge) imports one test run into a shared intermediate representation and previews it as Cucumber-style, Allure-like, and Extent-like reports. Importers cover Cucumber JSON, Allure results, JUnit XML, TestNG XML, Playwright JSON, Jest JSON, and pytest JSON.
