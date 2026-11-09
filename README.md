@@ -1,6 +1,6 @@
 # Luis Morales Tueme
 
-Test automation. I publish frameworks a team can clone and point at their own application, and a tool for reading the same test run in more than one report.
+Test automation. I publish frameworks a team can clone and point at their own application.
 
 ## Frameworks
 
